@@ -7,4 +7,4 @@ Developed an automated pet feeder that maintains water levels, dispenses food on
 - Used food-safe containers and delivery tubes, ensuring compliance with health standards.
 - Sealed PLA-printed components to minimize bacterial contamination risks.
 - Interfaced motors with MOSFET drivers, capacitive water sensing circuit, and speaker for comprehensive functionality.
-- Designed the electrical circuit to operate with an external DC supply and USB power source for enhanced safety and reliability
+- Designed the electrical circuit to operate with an external DC supply and USB power source for enhanced safety and reliability.
