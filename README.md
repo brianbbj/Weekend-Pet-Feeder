@@ -4,7 +4,3 @@ Developed an automated pet feeder that maintains water levels, dispenses food on
 - Programmed the feeder to dispense predetermined amounts of food at scheduled times.
 - Integrated a passive IR sensor to detect nearby pets and freshen water with small additions.
 - Created visual and audible notifications for low water levels to alert pet owners.
-- Used food-safe containers and delivery tubes, ensuring compliance with health standards.
-- Sealed PLA-printed components to minimize bacterial contamination risks.
-- Interfaced motors with MOSFET drivers, capacitive water sensing circuit, and speaker for comprehensive functionality.
-- Designed the electrical circuit to operate with an external DC supply and USB power source for enhanced safety and reliability.
