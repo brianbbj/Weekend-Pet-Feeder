@@ -30,3 +30,8 @@ This project involves creating an automated pet feeder that dispenses food on sc
   | - Capacitors |
   | - Capacitative Water Sensing circuit   |
   ## Circuit Diagram
+  <p align="center">
+  <img src="Feeder AnP.jpg" alt="Feeder AnP" style="width: 500px;">
+</p>
+<p align="center">
+  <b>Figure 3:</b> Circuit Diagram for Auger and Pump
