@@ -6,14 +6,14 @@ This project involves creating an automated pet feeder that dispenses food on sc
 <p align="center">
   <b>Figure 1:</b> Image of the Product
 
-## Key Features
+## 💡 Key Features
 - **Automatic Water Level Maintenance:** Senses and refills the water dish when the level is low.
 - **Freshens Water:** Dispenses small amounts of water when a pet is detected nearby.
 - **Scheduled Food Dispensing:**  Allows owners to set specific feeding times, dispensing pre-measured amounts of kibble at scheduled intervals.
 - **Low Water Alert:**  Notifies the owner with visual and audible signals when water is critically low.
 - **Integrated Sensors:**  Utilizes Passive Infrared (PIR) sensors for pet detection and capacitive sensors to monitor water levels.
   
-## Hardware Components
+## 🛠 Hardware Components
   <p align="center">
   <img src="Feeder Hardware.jpg" alt="Feeder Top" style="width: 500px;">
 </p>
@@ -31,7 +31,7 @@ This project involves creating an automated pet feeder that dispenses food on sc
   | - Capacitors |
   | - Capacitative Water Sensing circuit   |
   
-  ## Circuit Diagram
+  ## 📋 Circuit Diagram
   <p align="center">
   <img src="Feeder AnP.jpg" alt="Feeder AnP" style="width: 500px;">
 </p>
