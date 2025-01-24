@@ -13,18 +13,20 @@ This project involves creating an automated pet feeder that dispenses food on sc
 - **Low Water Alert:**  Notifies the owner with visual and audible signals when water is critically low.
 - **Integrated Sensors:**  Utilizes Passive Infrared (PIR) sensors for pet detection and capacitive sensors to monitor water levels.
 ## Hardware Components
-  |                         |
-  | ------------------------|
-  | TM4C123GXL Board  |
- | DC gearhead motor |
-  |  Passive Infrared(PIR) Sensor      |
-  | Speaker                 |
-  | Diodes                   |
-  |Resistors |
-  |Capacitors |
-  | Capacitative Water Sensing circuit   |
   <p align="center">
-  <img src="Feeder Top.jpg" alt="Feeder Top" style="width: 500px;">
+  <img src="Feeder Hardware.jpg" alt="Feeder Top" style="width: 500px;">
 </p>
 <p align="center">
-  <b>Figure 1:</b> Image of the Product Hardware
+  <b>Figure 2:</b> Product Hardware
+
+  |                         |
+  | ------------------------|
+  | - TM4C123GXL Board  |
+  | - DC gearhead motor |
+  | - Passive Infrared(PIR) Sensor      |
+  | - Speaker                 |
+  | - Diodes                   |
+  | - Resistors |
+  | - Capacitors |
+  | - Capacitative Water Sensing circuit   |
+  ## Circuit Diagram
