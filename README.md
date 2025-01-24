@@ -27,8 +27,7 @@ This project involves creating an automated pet feeder that dispenses food on sc
   | - Passive Infrared(PIR) Sensor      |
   | - Speaker                 |
   | - Diodes                   |
-  | - Resistors |
-  | - Capacitors |
+  | - Passive Components |
   | - Capacitative Water Sensing circuit   |
   
   ## 📋 Circuit Diagram
