@@ -12,6 +12,7 @@ This project involves creating an automated pet feeder that dispenses food on sc
 - **Scheduled Food Dispensing:**  Allows owners to set specific feeding times, dispensing pre-measured amounts of kibble at scheduled intervals.
 - **Low Water Alert:**  Notifies the owner with visual and audible signals when water is critically low.
 - **Integrated Sensors:**  Utilizes Passive Infrared (PIR) sensors for pet detection and capacitive sensors to monitor water levels.
+  
 ## Hardware Components
   <p align="center">
   <img src="Feeder Hardware.jpg" alt="Feeder Top" style="width: 500px;">
@@ -29,7 +30,8 @@ This project involves creating an automated pet feeder that dispenses food on sc
   | - Resistors |
   | - Capacitors |
   | - Capacitative Water Sensing circuit   |
-  ## Circuit Diagram
+  
+  ## Circuit Diagrams
   <p align="center">
   <img src="Feeder AnP.jpg" alt="Feeder AnP" style="width: 500px;">
 </p>
