@@ -38,8 +38,8 @@ This project involves creating an automated pet feeder that dispenses food on sc
 <p align="center">
   <b>Figure 3:</b> Circuit Diagram for Auger and Pump
   <p align="center">
-  <img src="Feeder Speaker.jpg" alt="Feeder AnP" style="width: 500px;">
+  <img src="Feeder Speaker.jpeg" alt="Feeder AnP" style="width: 500px;">
 </p>
 <p align="center">
-  <b>Figure 3:</b> Circuit Diagram for Speaker
+  <b>Figure 4:</b> Circuit Diagram for Speaker
   
